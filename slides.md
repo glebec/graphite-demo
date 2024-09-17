@@ -555,7 +555,7 @@ Graphite handles the chain of rebasing and force-pushing for you!
 
 --------------------------------------------------------------------------------
 
-Merge conflicts
+Merge Conflicts
 ===============
 
 (Demo)
