@@ -534,8 +534,8 @@ gt submit
 ✔ Submit › Create Draft Pull Request
 
 📨 Pushing to remote and creating/updating PRs...
-gabriel.lebec/favorite-things: https://app.graphite.dev/github/pr/glebec/graphite-demo/1 (created)
-gabriel.lebec/update-docs: https://app.graphite.dev/github/pr/glebec/graphite-demo/2 (created)
+gabriel.lebec/favorite-things: https://app.graphite.dev/... (created)
+gabriel.lebec/update-docs: https://app.graphite.dev/... (created)
 ```
 
 Graphite has config options for auto branch prefixes, naming, drafting in CLI
