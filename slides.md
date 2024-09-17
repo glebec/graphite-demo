@@ -520,6 +520,22 @@ Submitting PRs for Review
 ```zsh +line_numbers
 # Can also do `gt submit --no-edit` for slightly less noise
 gt submit
+
+🥞 Validating that this Graphite stack is ready to submit...
+
+✏️ Preparing to submit PRs for the following branches...
+▸ gabriel.lebec/favorite-things (Create)
+✔ Title … [Faves] Add raindrops
+✔ Body › Skip (leave empty)
+✔ Submit › Create Draft Pull Request
+▸ gabriel.lebec/update-docs (Create)
+✔ Title … [Docs] Explain faves
+✔ Body › Skip (leave empty)
+✔ Submit › Create Draft Pull Request
+
+📨 Pushing to remote and creating/updating PRs...
+gabriel.lebec/favorite-things: https://app.graphite.dev/github/pr/glebec/graphite-demo/1 (created)
+gabriel.lebec/update-docs: https://app.graphite.dev/github/pr/glebec/graphite-demo/2 (created)
 ```
 
 Graphite has config options for auto branch prefixes, naming, drafting in CLI
