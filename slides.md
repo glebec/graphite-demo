@@ -559,3 +559,22 @@ Merge conflicts
 ===============
 
 (Demo)
+
+--------------------------------------------------------------------------------
+
+Other
+=====
+
+```zsh
+gt sync   # pull trunk and chain-rebase
+
+gt up     # go up (later) in a stack
+gt down   # go down (earlier) in a stack
+gt top    # go to last branch in the stack
+gt bottom # go to first branch in the stack (right off of trunk)
+
+gt squash # squash all commits in the branch
+gt split  # split all commits into stacked branches
+
+gt move   # rebase a branch onto another and restack if needed
+```
