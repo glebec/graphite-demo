@@ -10,3 +10,4 @@ $ presenterm slides.md
 
 Note: CTRL+E execution uses hard-coded paths; change if you want the execution
 snippets to work on your device.
+This is about faves
